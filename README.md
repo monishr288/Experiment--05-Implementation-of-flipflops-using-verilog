@@ -121,6 +121,11 @@ Developed by: R.Monish
 RegisterNumber:  212223220061
 */
 
+D FLIPFLOP:
+![Exp5 dfp code](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/bc257103-32bd-42db-8cdc-492208538d5a)
+
+T FLIPFLOP:
+
 
 
 
