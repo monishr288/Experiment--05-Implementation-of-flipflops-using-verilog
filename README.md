@@ -178,11 +178,7 @@ JK FLIPFLOP:
 
 SR FLIPFLOP:
 
-
-
-
-
-
+![sr wave](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/226a6d89-416a-4df7-8947-3dd311a8292b)
 
 
 ### RESULTS 
