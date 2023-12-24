@@ -134,6 +134,11 @@ T FLIPFLOP:
 
 ![Exp5 tfp code](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/6845f03f-badd-4528-aa03-77d1ae9e2e7f)
 
+JK FLIPFLOP:
+
+![Exp5 jkfp code](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/bafecab4-2fbe-4f4d-9f8d-b5f63e4b1358)
+
+SR FLIPFLOP:
 
 
 
