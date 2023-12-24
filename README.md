@@ -155,6 +155,10 @@ T FLIPFLOP:
 
 JK FLIPFLOP:
 
+![Exp5 jkfp RTL diagram](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/528b7d78-8833-41b8-8aaf-427a19db34ce)
+
+SR FLIPFLOP:
+
 
 
 
