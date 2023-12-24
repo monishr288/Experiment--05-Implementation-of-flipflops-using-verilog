@@ -118,13 +118,13 @@ Step:6 Run the program and choose RTL viewer to get RTL realization.
 
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 
 Developed by: R.Monish
 
 RegisterNumber:  212223220061
-*/
+
 
 D FLIPFLOP:
 
@@ -159,15 +159,7 @@ JK FLIPFLOP:
 
 SR FLIPFLOP:
 
-
-
-
-
-
-
-
-
-
+![Exp5 srfp RTL diagram](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/568104d5-231a-4f68-8fab-a4f9ff262f51)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
