@@ -174,7 +174,9 @@ T FLIPFLOP:
 
 JK FLIPFLOP:
 
+![jk wave](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/cec664c2-a7f5-4d75-94cf-08ab393acf5a)
 
+SR FLIPFLOP:
 
 
 
