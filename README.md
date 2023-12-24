@@ -164,6 +164,14 @@ SR FLIPFLOP:
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+D FLIPFLOP:
+
+![d wave](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/eebedf75-e857-405f-b88c-56693031673b)
+
+T FLIPFLOP:
+
+
+
 
 
 
