@@ -151,6 +151,12 @@ D FLIPFLOP:
 
 T FLIPFLOP:
 
+![Exp5 tfp RTL diagram](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/8d8e0384-8c1b-4568-b7e5-eecb31f1c466)
+
+JK FLIPFLOP:
+
+
+
 
 
 
