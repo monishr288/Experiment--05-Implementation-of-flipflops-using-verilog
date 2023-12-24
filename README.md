@@ -145,6 +145,13 @@ SR FLIPFLOP:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+D FLIPFLOP:
+
+![Exp5 dfp RTL diagram](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/dfe85ba8-9c51-49cc-9361-abe88290b376)
+
+T FLIPFLOP:
+
+
 
 
 
