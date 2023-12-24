@@ -170,6 +170,10 @@ D FLIPFLOP:
 
 T FLIPFLOP:
 
+![t wave](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/5f809015-f62b-47b0-9556-6386670a6691)
+
+JK FLIPFLOP:
+
 
 
 
