@@ -140,8 +140,7 @@ JK FLIPFLOP:
 
 SR FLIPFLOP:
 
-
-
+![Exp5 srfp code](https://github.com/monishr288/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474049/c336ba53-44bf-49fb-b13c-92b48035c040)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
